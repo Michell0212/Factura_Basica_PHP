@@ -1,0 +1,26 @@
+body {
+  background-color: #feabe5;
+}
+
+legend {
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+
+.table thead {
+  background-color: #f65ed8;
+  color: white;
+}
+
+.table tbody td {
+  background-color: #fff6f2;
+}
+
+.table tfoot {
+  background-color: #eee;
+  font-weight: bold;
+}
+
+.text-end p {
+  font-size: 1rem;
+}
